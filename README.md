@@ -27,6 +27,12 @@ EOF
 chmod +x /usr/local/bin/aria2c
 ```
 
+Or just install it with package manager like apt.
+
+```shell
+apt install aria2c
+```
+
 ## Usage
 
 ```shell
